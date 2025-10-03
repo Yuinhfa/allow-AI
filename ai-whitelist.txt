@@ -1,1 +1,56 @@
+# ChatGPT / OpenAI / DALL-E
+||openai.com^
+||chat.openai.com^
+||chatgpt.com^
+||api.openai.com^
+||auth0.openai.com^
+||oaiusercontent.com^
+||files.oaiusercontent.com^
 
+# Claude / Anthropic
+||anthropic.com^
+||api.anthropic.com^
+||console.anthropic.com^
+||claude.ai^
+
+# Grok / xAI
+||x.ai^
+||grok.x.ai^
+||api.x.ai^
+||docs.x.ai^
+
+# Midjourney
+||midjourney.com^
+||www.midjourney.com^
+||docs.midjourney.com^
+
+# Gemini / Google AI
+||gemini.google.com^
+||bard.google.com^
+||ai.google.dev^
+||deepmind.com^
+
+# Другие популярные ИИ
+# Perplexity AI
+||perplexity.ai^
+||www.perplexity.ai^
+
+# Hugging Face (модели ИИ)
+||huggingface.co^
+||huggingface.com^
+
+# Stability AI / Stable Diffusion
+||stability.ai^
+||platform.stability.ai^
+
+# Adobe Firefly
+||firefly.adobe.com^
+||www.adobe.com^
+
+# Meta AI / Llama
+||ai.meta.com^
+||llama.meta.com^
+
+# Cohere
+||cohere.com^
+||api.cohere.ai^
